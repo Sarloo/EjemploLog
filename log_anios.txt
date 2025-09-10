@@ -1,0 +1,69 @@
+[14:57:37] === INICIO DE SESIÓN: 2025-09-09 14:57:37 ===
+[14:57:37] Insertado valor: 2000
+[14:57:37] Insertado valor: 1997
+[14:57:37] Insertado valor: 1983
+[14:57:37] Insertado valor: 1994
+[14:57:37] Insertado valor: 1984
+[14:57:37] Insertado valor: 1983
+[14:57:37] Insertado valor: 1998
+[14:57:37] Insertado valor: 2005
+[14:57:37] Insertado valor: 1983
+[14:57:37] Insertado valor: 1994
+[14:57:37] Insertado valor: 1994
+[14:57:37] Insertado valor: 1998
+[14:57:37] Insertado valor: 1992
+[14:57:37] Insertado valor: 1987
+[14:57:37] Insertado valor: 2000
+[14:57:37] Insertado valor: 2005
+[14:57:37] Insertado valor: 1996
+[14:57:37] Insertado valor: 1993
+[14:57:37] Insertado valor: 1988
+[14:57:37] Insertado valor: 1995
+[14:57:37] Búsqueda de 1990: NO ENCONTRADO
+[14:57:37] === FIN DE SESIÓN ===
+[14:57:57] === INICIO DE SESIÓN: 2025-09-09 14:57:57 ===
+[14:57:57] Insertado valor: 2005
+[14:57:57] Insertado valor: 1984
+[14:57:57] Insertado valor: 1990
+[14:57:57] Insertado valor: 1997
+[14:57:57] Insertado valor: 1997
+[14:57:57] Insertado valor: 2005
+[14:57:57] Insertado valor: 1985
+[14:57:57] Insertado valor: 1981
+[14:57:57] Insertado valor: 1982
+[14:57:57] Insertado valor: 1990
+[14:57:57] Insertado valor: 1999
+[14:57:57] Insertado valor: 1983
+[14:57:57] Insertado valor: 1994
+[14:57:57] Insertado valor: 2004
+[14:57:57] Insertado valor: 1992
+[14:57:57] Insertado valor: 1998
+[14:57:57] Insertado valor: 1990
+[14:57:57] Insertado valor: 1997
+[14:57:57] Insertado valor: 1998
+[14:57:57] Insertado valor: 1991
+[14:57:57] Búsqueda de 1990: ENCONTRADO
+[14:57:57] === FIN DE SESIÓN ===
+[15:19:34] === INICIO DE SESIÓN: 2025-09-09 15:19:34 ===
+[15:19:34] Insertado valor: 2000
+[15:19:34] Insertado valor: 1994
+[15:19:34] Insertado valor: 1993
+[15:19:34] Insertado valor: 2004
+[15:19:34] Insertado valor: 2001
+[15:19:34] Insertado valor: 1993
+[15:19:34] Insertado valor: 1993
+[15:19:34] Insertado valor: 2002
+[15:19:34] Insertado valor: 2003
+[15:19:34] Insertado valor: 1999
+[15:19:34] Insertado valor: 1984
+[15:19:34] Insertado valor: 1984
+[15:19:34] Insertado valor: 1990
+[15:19:34] Insertado valor: 1984
+[15:19:34] Insertado valor: 1990
+[15:19:34] Insertado valor: 1990
+[15:19:34] Insertado valor: 1992
+[15:19:34] Insertado valor: 1982
+[15:19:34] Insertado valor: 2000
+[15:19:34] Insertado valor: 1991
+[15:19:34] Búsqueda de 1990: ENCONTRADO
+[15:19:34] === FIN DE SESIÓN ===

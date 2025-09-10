@@ -1,0 +1,80 @@
+[14:57:06] === INICIO DE SESIÓN: 2025-09-09 14:57:06 ===
+[14:57:06] Insertado valor: 74
+[14:57:06] Insertado valor: 36
+[14:57:06] Insertado valor: 37
+[14:57:06] Insertado valor: 92
+[14:57:06] Insertado valor: 27
+[14:57:06] Insertado valor: 22
+[14:57:06] Insertado valor: 44
+[14:57:06] Insertado valor: 35
+[14:57:06] Insertado valor: 74
+[14:57:06] Insertado valor: 41
+[14:57:06] Insertado valor: 41
+[14:57:06] Insertado valor: 49
+[14:57:06] Insertado valor: 34
+[14:57:06] Insertado valor: 8
+[14:57:06] Insertado valor: 93
+[14:57:06] Insertado valor: 44
+[14:57:06] Insertado valor: 89
+[14:57:06] Insertado valor: 59
+[14:57:06] Insertado valor: 60
+[14:57:06] Insertado valor: 80
+[14:57:06] Búsqueda de 100: NO ENCONTRADO
+[14:57:06] Búsqueda de 75: NO ENCONTRADO
+[14:57:06] Búsqueda de 75: NO ENCONTRADO
+[14:57:06] Búsqueda de 3: NO ENCONTRADO
+[14:57:06] Búsqueda de 94: NO ENCONTRADO
+[14:57:06] Búsqueda de 84: NO ENCONTRADO
+[14:57:06] Búsqueda de 52: NO ENCONTRADO
+[14:57:06] Búsqueda de 47: NO ENCONTRADO
+[14:57:06] Búsqueda de 36: ENCONTRADO
+[14:57:06] === FIN DE SESIÓN ===
+[14:57:48] === INICIO DE SESIÓN: 2025-09-09 14:57:48 ===
+[14:57:48] Insertado valor: 71
+[14:57:48] Insertado valor: 5
+[14:57:48] Insertado valor: 74
+[14:57:48] Insertado valor: 83
+[14:57:48] Insertado valor: 26
+[14:57:48] Insertado valor: 47
+[14:57:48] Insertado valor: 89
+[14:57:48] Insertado valor: 79
+[14:57:48] Insertado valor: 77
+[14:57:48] Insertado valor: 3
+[14:57:48] Insertado valor: 75
+[14:57:48] Insertado valor: 53
+[14:57:48] Insertado valor: 43
+[14:57:48] Insertado valor: 20
+[14:57:48] Insertado valor: 19
+[14:57:48] Insertado valor: 14
+[14:57:48] Insertado valor: 20
+[14:57:48] Insertado valor: 96
+[14:57:48] Insertado valor: 7
+[14:57:48] Insertado valor: 93
+[14:57:48] Búsqueda de 81: NO ENCONTRADO
+[14:57:48] Búsqueda de 7: ENCONTRADO
+[14:57:48] === FIN DE SESIÓN ===
+[15:19:12] === INICIO DE SESIÓN: 2025-09-09 15:19:12 ===
+[15:19:12] Insertado valor: 15
+[15:19:12] Insertado valor: 90
+[15:19:12] Insertado valor: 96
+[15:19:12] Insertado valor: 76
+[15:19:12] Insertado valor: 100
+[15:19:12] Insertado valor: 91
+[15:19:12] Insertado valor: 82
+[15:19:12] Insertado valor: 58
+[15:19:12] Insertado valor: 62
+[15:19:12] Insertado valor: 30
+[15:19:12] Insertado valor: 78
+[15:19:12] Insertado valor: 17
+[15:19:12] Insertado valor: 69
+[15:19:12] Insertado valor: 11
+[15:19:12] Insertado valor: 23
+[15:19:12] Insertado valor: 85
+[15:19:12] Insertado valor: 45
+[15:19:12] Insertado valor: 14
+[15:19:12] Insertado valor: 57
+[15:19:12] Insertado valor: 80
+[15:19:12] Búsqueda de 35: NO ENCONTRADO
+[15:19:12] Búsqueda de 40: NO ENCONTRADO
+[15:19:12] Búsqueda de 85: ENCONTRADO
+[15:19:12] === FIN DE SESIÓN ===
